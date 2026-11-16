@@ -75,7 +75,3 @@ git add PRD.md
 git commit -m "docs: tambah product overview pada PRD"
 git push -u origin docs/prd-scope
 ```
-
-## Rencana berikutnya
-
-- **Modul 7:** implementasi antarmuka berdasarkan section Figma dan token desain pada PRD.

@@ -1,0 +1,31 @@
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor dan IDE
+.vscode/
+.idea/
+*.swp
+
+# Dependensi dan build (Modul 7)
+node_modules/
+vendor/
+dist/
+build/
+
+# Konfigurasi lokal dan rahasia (jangan pernah di-commit)
+.env
+.env.*
+config.local.php
+*.log
+
+# Basis data lokal dan unggahan pengguna
+*.sqlite
+*.sql.bak
+uploads/
+storage/
+
+# Berkas sementara
+tmp/
+*.tmp

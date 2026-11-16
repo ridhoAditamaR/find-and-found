@@ -57,7 +57,7 @@ Folder kode (misalnya `src/`) ditambahkan pada Modul 7.
 
 ## Alur kerja Git
 
-1. **Clone:** `git clone <url-repo>` lalu `git pull origin main` sebelum mulai.
+1. **Clone:** `git clone ridhoAditamaR/find-and-found` lalu `git pull origin main` sebelum mulai.
 2. **Branch:** jangan commit langsung ke `main`. Buat branch per tugas.
    - Dokumen: `docs/prd-scope`, `docs/prd-tech`, `docs/readme-setup`
    - Fitur (Modul 7): `feat/nama-fitur`
@@ -69,7 +69,7 @@ Folder kode (misalnya `src/`) ditambahkan pada Modul 7.
 5. **Pull Request:** buka PR ke `main`, minta review minimal satu rekan, tulis komentar review, lalu merge setelah disetujui.
 
 ```bash
-git clone <url-repo>
+git clone ridhoAditamaR/find-and-found
 git checkout -b docs/prd-scope
 git add PRD.md
 git commit -m "docs: tambah product overview pada PRD"

@@ -2,7 +2,7 @@
 
 Platform web untuk melaporkan, mencari, dan mengklaim **barang hilang maupun temuan** di lingkungan kampus, supaya informasi tidak lagi tersebar di grup chat dan media sosial.
 
-> Status: **Modul 6, fondasi repositori dan dokumentasi.** Kode website dikerjakan pada Modul 7.
+> Status: **Modul 6, fondasi repositori dan dokumentasi.
 
 ## Tentang proyek
 

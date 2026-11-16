@@ -36,7 +36,7 @@ Jika tim hanya 3 orang, satu anggota memegang dua peran.
 ## Desain
 
 - Desain Figma: https://www.figma.com/design/x9sLfizRo6rn7Do5p1Irqc
-- Prototipe interaktif: [isi link Figma Prototype publik]
+- Prototipe interaktif: https://www.figma.com/proto/x9sLfizRo6rn7Do5p1Irqc/Tugas-5---Prototipe-FIND---FOUND?node-id=3-2&p=f&t=UUbuZfazoG6VEEbW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
 
 Prototipe terdiri dari 17 frame (01_Login sampai 17_Status_Laporan, termasuk dashboard admin dan verifikasi klaim) dan dibuat dengan Auto Layout serta Figma Variables dua tingkat (Primitives dan Semantics).
 
